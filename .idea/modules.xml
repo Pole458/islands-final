@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/actodata-core/actodata-core.iml" filepath="$PROJECT_DIR$/actodata-core/actodata-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actodes/actodes.iml" filepath="$PROJECT_DIR$/actodes/actodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/average/average.iml" filepath="$PROJECT_DIR$/average/average.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpj/gpj.iml" filepath="$PROJECT_DIR$/gpj/gpj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/islands/islands.iml" filepath="$PROJECT_DIR$/islands/islands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javautils/javautils.iml" filepath="$PROJECT_DIR$/javautils/javautils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
+    </modules>
+  </component>
+</project>

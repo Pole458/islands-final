@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="module" module-name="actodes" />
+    <orderEntry type="module" module-name="actodata-core" />
+    <orderEntry type="module" module-name="actodata-core-examples" />
+    <orderEntry type="module" module-name="actodata-kotlin" />
+    <orderEntry type="module" module-name="actodata-kotlin-examples" />
+    <orderEntry type="module" module-name="actodata-weka" />
+    <orderEntry type="module" module-name="actodata-weka-examples" />
+    <orderEntry type="module" module-name="gpj" />
+    <orderEntry type="module" module-name="javautils" />
+    <orderEntry type="module" module-name="smcgp-islands" />
+  </component>
+</module>

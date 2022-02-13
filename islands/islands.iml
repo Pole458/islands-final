@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="javautils" />
+    <orderEntry type="module" module-name="actodata-core" />
+    <orderEntry type="module" module-name="actodes" />
+    <orderEntry type="module" module-name="gpj" />
+    <orderEntry type="library" name="jmathio" level="project" />
+    <orderEntry type="library" name="jmathplot" level="project" />
+  </component>
+</module>
